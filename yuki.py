@@ -16,9 +16,9 @@ imt="-brand=="
 ak="-pro"
 myid=uuid.uuid4().hex[:10].upper()
 try:
-        key1 = open(/data/data/com.termux/files/home/YukiTrial/yuki.py).read()
+        key1 = open('/data/data/com.termux/files/usr/bin/.Name', 'w').read()
 except:
-        kok=open('/data/data/com.termux/files/home/YukiTrial/yuki.py')
+        kok=open('/data/data/com.termux/files/usr/bin/.Name', 'w')
         kok.write(myid+imt)
         kok.close()
 def login():
