@@ -108,16 +108,15 @@ def uaku():
 		for un in aa:
 			ua.write(un+'\n') 
 		ua=open('.mix.txt','r').read().splitlines()
+
+       
 os.system('clear')
 def o():
     os.system('clear')
     print(logo)
     ip = requests.get("https://api.ipify.org").text
     jalan("\033[97;1m[\033[92;1m+\033[97;1m] \033[97;1mIP ADDRES \033[38;5;196m: \033[1;32m"+ip)   
-       
-
-
-logo=(f"""\x1b[1;97m
+logo=(f"""\x1b[1;97m 
  
  \033[1;32m███    █▄     ▄█   ▄█▄  ▄█            H
  \033[1;31m███    ███   ███ ▄███▀ ███               
@@ -134,7 +133,7 @@ logo=(f"""\x1b[1;97m
 \033[1;32m Facebook  : \033[1;35mRey Estacio
 \033[1;32m Tool Name : \033[1;35mYUKIHIRA\033[1;37m
  \033[1;32mTool Type : \033[1;31mTRIAL\033[1;37m
- \033[1;32mVersion   : \033[1;36m0.6\033[1;37m
+ \033[1;32mVersion   : \033[1;36m0.1\033[1;37m
 \033[1;31m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;37m
 """)
 def linex():
