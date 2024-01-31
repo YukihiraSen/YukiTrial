@@ -826,4 +826,4 @@ def number_detail():
         caseher()
 
 
-main()
+min()
