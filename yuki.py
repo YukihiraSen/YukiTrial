@@ -19,6 +19,12 @@ try:
 	import concurrent.futures
 except ImportError:
 	os.system("pip install futures")
+	
+	def runtxt(z):
+    for e in z + "\n":
+        sys.stdout.write(e)
+        sys.stdout.flush()
+        time.sleep(0.03)
 
 import os
 import sys
