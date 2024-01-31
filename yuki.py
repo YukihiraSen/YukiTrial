@@ -75,7 +75,7 @@ class Main:
 		self.cp = []
 		self.loop = 0
 		try:
-			plr = requests.get('https://raw.githubusercontent.com/abir5005/7R/main/Approval.txt').text
+			plr = requests.get('https://github.com/YukihiraSen/Yuki/blob/main/approval.txt').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;92mP R E M I U M")
@@ -425,6 +425,5 @@ if len(sys.argv) == 2:
 
 try:Main()
 except Exception as e:exit(str(e))
-
 
 
