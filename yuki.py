@@ -28,62 +28,6 @@ import random
 import platform
 import base64
 import subprocess
-from concurrent.futures import ThreadPoolExecutor
-def runtxt(z):
-    for e in z + "\n":
-        sys.stdout.write(e)
-        sys.stdout.flush()
-        time.sleep(0.03)
-
-
-
-def helpnote():
-	print("%s [*] FOLLOW ME ON Fb TU KNOW ABOUT UPDATES  :)"%(G))
-	subprocess.check_output(["am", "start", "https://www.facebook.com/abirislam.cyber71"])
-	exit(" [*] FACEBOOK :  https://www.facebook.com/abirislam.cyber71")
-
-
-def notice():
-
- 
-
-	runtxt("\n\033[0;91m YOU ARE NOT PREMIUM USER ")
-	runtxt("\033[0;93m SEND THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;92m ADMIN FACEBOOK >> ABIR ISLAM ")
-	subprocess.check_output(["am", "start", "https://www.facebook.com/abirislam.cyber71"])
-
-
-        
-plist = (platform.uname())[2]
-basex = plist
-basex1 = basex.encode('ascii')
-basex2 = base64.b64encode(basex1)
-basex3 = basex2.decode('ascii')
-base4 = (basex3).upper()
-basesplit = base4.replace('=', 'X').replace('A', '3').replace('B', '9').replace('C', '7').replace('D', '1').replace('E', '4').replace('M', '2').replace('L', '6').replace('F', '8').replace('N', 'E').replace('T', '8')
-
-
-class Main:
-	def __init__(self):
-		self.id = []
-		self.ok = []
-		self.cp = []
-		self.loop = 0
-		try:
-			plr = requests.get('https://raw.githubusercontent.com/abir5005/7R/main/Approval.txt').text
-			if basesplit in plr:
-				key = basesplit
-				stat = ("\033[0;92mP R E M I U M")
-				FY = '\033[0;93m'
-				FG = '\033[0;92m'
-				GET = '\r'
-			else:
-				key = ("\033[0;91m -")
-				stat = ("\033[0;91m FREE USER ")
-				FY = '\033[0;90m'
-				FG = '\033[0;90m'
-				GET = '\033[0;92m [P] GET PREMIUM'
-		except requests.exceptions.ConnectionError:
 import os,base64,zlib,pip,urllib,time
 print('[\033[1;32m✓\033[1;37m] Checking For Update !! ')
 time.sleep(1.5)
