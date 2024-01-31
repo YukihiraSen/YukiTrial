@@ -29,7 +29,6 @@ import platform
 import base64
 import subprocess
 from concurrent.futures import ThreadPoolExecutor
-os import path
 def runtxt(z):
     for e in z + "\n":
         sys.stdout.write(e)
