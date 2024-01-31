@@ -35,6 +35,14 @@ print('[\033[1;32m✓\033[1;37m] Wait For Update Tool !! ')
 time.sleep(1.5)
 os.system('git pull')
 os.system('clear')
+try:
+			plr = requests.get('https://raw.githubusercontent.com/abir5005/7R/main/Approval.txt').text
+			if basesplit in plr:
+				key = basesplit
+				stat = ("\033[0;92mP R E M I U M")
+				FY = '\033[0;93m'
+				FG = '\033[0;92m'
+				GET = '\r'
 print('[\033[1;32m✓\033[1;37m] Update Done \033[1;32m✓\033[1;37m Now You Can Use This Tool :) ')
 time.sleep(2)
 os.system(f'xdg-open https://facebook.com/groups/1848481151967680/')
