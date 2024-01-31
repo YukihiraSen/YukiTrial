@@ -824,6 +824,3 @@ def number_detail():
 
         input('\033[0m[Press enter to back] ')
         caseher()
-
-
-main()
