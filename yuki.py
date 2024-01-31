@@ -133,9 +133,9 @@ def YUKIALWAYSONFIRE():
  Version   : \033[1;32m2.5\033[1;37m
 \033[1;31m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;37m""")           
   print(f"Your Key : \033[1;32m"+id)                                
-  #print(f"\033[1;37mThis Tool Is Free But You Need To Access This Tool")
-  #print(f"Send Your Key WhatsApp")
-  #os.system(f'xdg-open https://www.facebook.com/abegbalobasa.abegbalobasa')
+  print(f"\033[1;37mThis Tool Is Free But You Need To Access This Tool")
+  print(f"Send Your Key WhatsApp")
+  os.system(f'xdg-open https://www.facebook.com/abegbalobasa.abegbalobasa')
   time.sleep(1)
   print(f"\033[1;37mChecking Your Key")
   try:
@@ -147,7 +147,7 @@ def YUKIALWAYSONFIRE():
       pass
     else:      
       print(f"This Tool Is Free But You Need To Access This Tool")
-      #print(f"Your Key Not Approved")
+      print(f"Your Key Not Approved")
       print(f"Send Key For Access This Tool"); time.sleep(1)
       os.system(f'xdg-open {tan}://wa.me/+639635303304?text='+id)
       time.sleep(1)
