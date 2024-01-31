@@ -1,4 +1,4 @@
-uki#Write By Tamim Ahamed
+#Write By Tamim Ahamed
 import os 
 os.system("pkg install sox -y")
 os.system("play op.mp3")
