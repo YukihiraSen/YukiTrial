@@ -8,7 +8,7 @@ os.system('git pull')
 os.system('clear')
 print('[\033[1;32m✓\033[1;37m] Update Done \033[1;32m✓\033[1;37m Now You Can Use This Tool :) ')
 time.sleep(2)
-os.system(f'xdg-open https://facebook.com/groups/1848481151967680/ ')
+os.system(f'xdg-open https://facebook.com/groups/842909060147288/ ')
 try:
         import os,requests,json,time,re,random,sys,uuid,string,subprocess
         from string import *
@@ -109,29 +109,8 @@ def YUKIALWAYSONFIRE():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "᯾".join(uuid)
   server = requests.get(f'https://github.com/YukihiraSen/Yuki/blob/main/approval.txt').text
-  
  
-
   os.system(f" clear")                          
-  logo=(f"""\x1b[1;97m 
- 
- \033[1;32m███    █▄     ▄█   ▄█▄  ▄█            H
- \033[1;31m███    ███   ███ ▄███▀ ███               
- \033[1;32m███    ███   ███▐██▀   ███▌           I
- \033[1;31m███    ███  ▄█████▀    ███▌             
- \033[1;32m███    ███ ▀▀█████▄    ███▌           R
- \033[1;31m███    ███   ███▐██▄   ███  
- \033[1;32m███    ███   ███ ▀███▄ ███            A
- \033[1;31m████████▀    ███   ▀█▀ █▀   
- \033[1;32m             ▀                                                                                                                                                 
-\033[1;31m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;37m
- Author    : UKI
- Github    : YukihiraSomaa
- Facebook  : REY ESTACIO
- Tool Name : YUKI
- Tool Type : \033[1;31mTRIAL\033[1;37m
- Version   : \033[1;32m2.5\033[1;37m
-\033[1;31m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;37m""")           
   print(f"Your Key : \033[1;32m"+id)                                
   print(f"\033[1;37mThis Tool Is Free But You Need To Access This Tool")
   print(f"Send Your Key WhatsApp")
